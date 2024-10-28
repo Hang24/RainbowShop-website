@@ -1,6 +1,6 @@
 **School Project**
 
-Building a search engine that gets data from MySQL
+Building a search engine that pulls data from MySQL
 
 ##The Home Page: basic page with button and page navigation
 ![screenshot1](https://github.com/user-attachments/assets/be8b1464-8e0d-470d-936e-38168ba38c75)
